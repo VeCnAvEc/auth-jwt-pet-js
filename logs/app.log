@@ -112,3 +112,4 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"refreshMiddleware: Looking for tokens of userId=3","timestamp":"2025-11-28 13:21:18"}
 {"level":"\u001b[33mwarn\u001b[39m","message":"refreshMiddleware: Refresh token mismatch for userId=3","timestamp":"2025-11-28 13:21:18"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 3000","timestamp":"2025-11-28 13:28:55"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Server started on port 3000","timestamp":"2025-11-28 13:43:35"}

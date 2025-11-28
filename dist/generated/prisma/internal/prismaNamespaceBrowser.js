@@ -97,7 +97,8 @@ exports.TokenScalarFieldEnum = {
     id: 'id',
     token: 'token',
     userId: 'userId',
-    createdAt: 'createdAt'
+    createdAt: 'createdAt',
+    expiresAt: 'expiresAt'
 };
 exports.SortOrder = {
     asc: 'asc',
